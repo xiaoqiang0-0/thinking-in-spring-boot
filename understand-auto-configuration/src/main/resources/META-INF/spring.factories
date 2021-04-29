@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.xq.thinkinginspringboot.chapt5.WebAutoConfiguration
